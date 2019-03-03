@@ -10,4 +10,3 @@ If any library does not exist simply use pip install <library_name> command to i
 
 5. Alternatively, run python file from Spyder and simply use run button.
 
-Please email me at vjaswan@ncsu.edu incase you face any errors. 
